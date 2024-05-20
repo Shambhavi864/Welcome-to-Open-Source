@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Shambhavi864">
+                    <img src="https://avatars.githubusercontent.com/u/95189537?v=4" width="100px;" alt="Shambhavi Srivastava"/>
+                    <br />
+                    <sub><b>Shambhavi Srivastava</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
